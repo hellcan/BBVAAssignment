@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BBVAAssignment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="listview">ListView</string>
+    <string name="mapview">MapView</string>
+    <string name="example">example</string>
+    <string name="open_now">Open Now</string>
+    <string name="navigation">Navigation</string>
+</resources>
