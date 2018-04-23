@@ -103,6 +103,8 @@ public class MainActivity extends AppCompatActivity {
                 MyMapFragment mapFragment = MyMapFragment.newInstance();
                 ActivityUtils.addFragmenttoActivity(getSupportFragmentManager(), mapFragment, R.id.frame_container, "mapFgt");
 
+                mapPresenter = new MapPresenter(mapFragment);
+
                 break;
 
         }
